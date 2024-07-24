@@ -1,0 +1,18 @@
+{
+    "name": "enna/enne-sse",
+    "description": "a simple SSE example using PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Enna\\EnneSse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "王龙",
+            "email": "w1069103107@outlook.com"
+        }
+    ],
+    "require": {}
+}
