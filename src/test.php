@@ -7,5 +7,5 @@ echo 55;
 echo 66-6-6;
 echo 77;
 echo 88-8-8;
-echo 99;
+echo 99-9-9;
 echo 1010;
